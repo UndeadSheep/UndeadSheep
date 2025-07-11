@@ -1,16 +1,8 @@
-
-<!-- Capsule Title -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=UndeadSheep&fontSize=60&fontColor=00ffa3&animation=fadeIn" />
-</p>
-
 <!-- Header Banner (single image) -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/avatar.jpg" width="240" alt="UndeadSheep" />
 </p>
-
 
 <!-- Tagline -->
 
@@ -39,7 +31,11 @@
   <img src="https://img.shields.io/badge/-FairyGUI-0078D4?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
----
+<!-- Capsule Title -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=UndeadSheep&fontSize=60&fontColor=00ffa3&animation=fadeIn" />
+</p>
 
 ### 🌌 Code Galaxy
 
