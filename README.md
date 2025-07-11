@@ -1,7 +1,7 @@
 <!-- Header Banner (single image) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/avatar.jpg" width="100%" alt="UndeadSheep Banner" />
+  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/avatar.jpg" width="120" alt="UndeadSheep" />
 </p>
 
 <!-- Capsule Title -->
