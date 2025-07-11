@@ -27,14 +27,6 @@
 
 ---
 
-### 🌌 Code Galaxy
-
-| Most Used Languages                                                                                                                                                               | Stats Card                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndeadSheep&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8&hide=html,css) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UndeadSheep&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true) |
-
----
-
 ### 🛠️ Dev Toolkit
 
 <p align="center">
@@ -44,3 +36,11 @@
   <img src="https://img.shields.io/badge/-QFramework-FF6B35?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-FairyGUI-0078D4?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
+
+---
+
+### 🌌 Code Galaxy
+
+| Most Used Languages                                                                                                                                                               | Stats Card                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndeadSheep&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8&hide=html,css) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UndeadSheep&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true) |
