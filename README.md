@@ -59,14 +59,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=%E5%92%B5%E5%92%B5%E5%92%B5~%20%E6%9D%82%E9%B1%BC&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<p align="center">
-  ⭐ 要是觉得本小姐厉害的话……才、才不是让你 star 的意思啦！<br>
-  哼！下次再来偷看的话，记得带上 respect 哦~ 💕
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UndeadSheep.UndeadSheep&left_color=ff69b4&right_color=C084FC&left_text=%E5%81%B7%E7%9C%8B%E6%AC%A1%E6%95%B0" alt="偷看次数"/>
-</p>
