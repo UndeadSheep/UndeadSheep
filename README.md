@@ -1,7 +1,7 @@
 <!-- 哼，才不是专门给你看的呢～ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/banner.jpg" width="600" alt="UndeadSheep Banner"/>
+  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/banner.jpg" width="680" alt="UndeadSheep Banner"/>
 </p>
 
 <!-- typing lines: 杂鱼~ 来看我的主页了吗？ | 才不是专门给你看的呢~ 哼！ | 写代码对本小姐来说小菜一碟啦~ -->
@@ -54,11 +54,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UndeadSheep&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&title=FF69B4"/>
+  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=UndeadSheep&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&title=FF69B4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=%E5%92%B5%E5%92%B5%E5%92%B5~%20%E6%9D%82%E9%B1%BC&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=%E5%BA%93%E5%BA%93%E5%BA%93~%20%E6%9D%82%E9%B1%BC&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
