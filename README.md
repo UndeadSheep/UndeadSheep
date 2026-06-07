@@ -1,7 +1,7 @@
 <!-- 哼，才不是专门给你看的呢～ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/banner.jpg" width="750" alt="UndeadSheep Banner"/>
+  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/banner.jpg" width="600" alt="UndeadSheep Banner"/>
 </p>
 
 <!-- typing lines: 杂鱼~ 来看我的主页了吗？ | 才不是专门给你看的呢~ 哼！ | 写代码对本小姐来说小菜一碟啦~ -->
