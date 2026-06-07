@@ -17,11 +17,11 @@
 <!-- 才不是想让你关注我呢 -->
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/UndeadSheep"><img src="https://img.shields.io/badge/Steam-%E6%9D%A5Steam%E6%89%BE%E6%88%91%E7%8E%A9-FF69B4?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+  <a href="https://steamcommunity.com/id/UndeadSheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-%E6%9D%A5Steam%E6%89%BE%E6%88%91%E7%8E%A9-FF69B4?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
   &nbsp;
-  <a href="https://discord.com/users/UndeadSheep"><img src="https://img.shields.io/badge/Discord-%E5%88%AB%E9%AA%9A%E6%89%B0%E6%88%91%EF%BC%81-C084FC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.com/users/UndeadSheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%E5%88%AB%E9%AA%9A%E6%89%B0%E6%88%91%EF%BC%81-C084FC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   &nbsp;
-  <a href="https://undeadsheep.itch.io"><img src="https://img.shields.io/badge/Itch.io-%E6%B8%B8%E6%88%8F-F472B6?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
+  <a href="https://undeadsheep.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Itch.io-%E6%B8%B8%E6%88%8F-F472B6?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
 </p>
 
 <p align="center">✦ ──── 💕 <strong>工具箱</strong> 💕 ──── ✦</p>
