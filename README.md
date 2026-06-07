@@ -4,8 +4,9 @@
   <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/banner.jpg" width="750" alt="UndeadSheep Banner"/>
 </p>
 
+<!-- typing lines: 杂鱼~ 来看我的主页了吗？ | 才不是专门给你看的呢~ 哼！ | 写代码对本小姐来说小菜一碟啦~ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%E5%92%B5%E5%92%B5%E5%92%B5~+%E6%9D%82%E9%B1%BC+UndeadSheep+%E5%88%B0%E5%BA%95%E4%BA%86%E5%90%97%EF%BC%9F;%E6%89%8D%E4%B8%8D%E6%98%AF+Indie+Game+Dev+%E5%91%A2~;%E5%96%8A%E5%96%8A+%E6%8A%93+Bug+%E7%9A%84+Engine+Sorcerer+%E5%93%A6%EF%BC%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%E6%9D%82%E9%B1%BC~%20%E6%9D%A5%E7%9C%8B%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%E4%BA%86%E5%90%97%EF%BC%9F;%E6%89%8D%E4%B8%8D%E6%98%AF%E4%B8%93%E9%97%A8%E7%BB%99%E4%BD%A0%E7%9C%8B%E7%9A%84%E5%91%A2~%20%E5%93%BC%EF%BC%81;%E5%86%99%E4%BB%A3%E7%A0%81%E5%AF%B9%E6%9C%AC%E5%B0%8F%E5%A7%90%E6%9D%A5%E8%AF%B4%E5%B0%8F%E8%8F%9C%E4%B8%80%E7%A2%9F%E5%95%A6~" alt="Typing SVG" />
 </p>
 
 <p align="center">
