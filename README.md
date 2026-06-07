@@ -1,7 +1,7 @@
 <!-- 哼，才不是专门给你看的呢～ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/banner.jpg" width="100%" alt="UndeadSheep Banner"/>
+  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/banner.jpg" width="750" alt="UndeadSheep Banner"/>
 </p>
 
 <p align="center">
@@ -10,18 +10,20 @@
 
 <p align="center">
   <strong>🎀 独立游戏开发者 ｜ 🧟‍♀️ 引擎小魔女 ｜ 🐛 Bug 猎手（才不是帮你修的！）</strong><br>
-  <em>把咖啡因变成代码，把像素变成世界……哼，这种程度对你来说很难吧，杂鱼~ ✨</em>
+  <em>哼，这种程度对你来说很难吧，杂鱼~ ✨</em>
 </p>
 
 <!-- 才不是想让你关注我呢 -->
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/UndeadSheep"><img src="https://img.shields.io/badge/Steam-FF69B4?style=for-the-badge&logo=steam&logoColor=white&label=来Steam找我玩嘛~"/></a>
-  <a href="https://discordapp.com/users/UndeadSheep#8917"><img src="https://img.shields.io/badge/Discord-C084FC?style=for-the-badge&logo=discord&logoColor=white&label=Discord（别骚扰我！）"/></a>
-  <a href="https://undeadsheep.itch.io"><img src="https://img.shields.io/badge/Itch.io-F472B6?style=for-the-badge&logo=itchdotio&logoColor=white&label=Itch.io游戏~"/></a>
+  <a href="https://steamcommunity.com/id/UndeadSheep"><img src="https://img.shields.io/badge/Steam-%E6%9D%A5Steam%E6%89%BE%E6%88%91%E7%8E%A9-FF69B4?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+  &nbsp;
+  <a href="https://discord.com/users/UndeadSheep"><img src="https://img.shields.io/badge/Discord-%E5%88%AB%E9%AA%9A%E6%89%B0%E6%88%91%EF%BC%81-C084FC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  &nbsp;
+  <a href="https://undeadsheep.itch.io"><img src="https://img.shields.io/badge/Itch.io-%E6%B8%B8%E6%88%8F-F472B6?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
 </p>
 
-<p align="center">✦ ──── 💕 <strong>本小姐的工具箱</strong> 💕 ──── ✦</p>
+<p align="center">✦ ──── 💕 <strong>工具箱</strong> 💕 ──── ✦</p>
 <p align="center"><sub>才不是炫耀呢……只是顺便让你见识一下~ 哼！</sub></p>
 
 <p align="center">
