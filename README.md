@@ -43,12 +43,16 @@
 > *「诶~ 你的 GitHub 绿墙有我的好看吗？没有吧~ 杂鱼~」*
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UndeadSheep&theme=pink&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=C084FC" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=UndeadSheep&theme=pink&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=C084FC" alt="Streak Stats"/>
 </p>
 
-| 💖 语言分布（才不是给你分析用的） | 📊 战绩一览（看好了别眨眼~） |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndeadSheep&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=C084FC&icon_color=F472B6&langs_count=8&hide=html,css) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UndeadSheep&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=C084FC&icon_color=F472B6&count_private=true) |
+<p align="center"><strong>📊 战绩一览</strong> · <strong>💖 语言分布</strong> <sub>（看好了别眨眼~ 才不是给你分析用的！）</sub></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=UndeadSheep&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=C084FC&icon_color=F472B6&count_private=true" height="165" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=UndeadSheep&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=C084FC&icon_color=F472B6&langs_count=8&hide=html,css" height="165" alt="Top Langs"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=UndeadSheep&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&title=FF69B4"/>
@@ -61,10 +65,12 @@
 </p>
 
 <p align="center">
-  <sub>⭐ 要是觉得本小姐厉害的话……才、才不是让你 star 的意思啦！</sub><br>
-  <sub>哼！下次再来偷看的话，记得带上 respect 哦~ 💕</sub>
+  ⭐ 要是觉得本小姐厉害的话……才、才不是让你 star 的意思啦！<br>
+  哼！下次再来偷看的话，记得带上 respect 哦~ 💕
 </p>
 
+<p align="center">✦ ── 来访记录 ── ✦</p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UndeadSheep&label=偷看次数&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=UndeadSheep&label=偷看次数&color=ff69b4&style=flat-square" alt="Profile Views"/>
 </p>
