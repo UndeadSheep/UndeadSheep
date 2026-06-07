@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSheep/UndeadSheep/main/avatar.jpg" width="120" alt="UndeadSheep" style="border-radius:50%;"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%E5%92%B5%E5%92%B5%E5%92%B5~+%E6%9D%82%E9%B1%BC+UndeadSheep+%E5%88%B0%E5%BA%95%E4%BA%86%E5%90%97%EF%BC%9F;%E6%89%8D%E4%B8%8D%E6%98%AF+Indie+Game+Dev+%E5%91%A2~;%E5%96%8A%E5%96%8A+%E6%8A%93+Bug+%E7%9A%84+Engine+Sorcerer+%E5%93%A6%EF%BC%81" alt="Typing SVG" />
 </p>
 
@@ -69,8 +65,8 @@
   哼！下次再来偷看的话，记得带上 respect 哦~ 💕
 </p>
 
-<p align="center">✦ ── 来访记录 ── ✦</p>
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UndeadSheep&label=偷看次数&color=ff69b4&style=flat-square" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=UndeadSheep.UndeadSheep&left_color=ff69b4&right_color=C084FC&left_text=%E5%81%B7%E7%9C%8B%E6%AC%A1%E6%95%B0" alt="偷看次数"/>
 </p>
